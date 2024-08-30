@@ -1,3 +1,5 @@
+package org.example;
+
 import java.util.Scanner;
 
 public class RP02_Davi_Atv3_Ex1 {

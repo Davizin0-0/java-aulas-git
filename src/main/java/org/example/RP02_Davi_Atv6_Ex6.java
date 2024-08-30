@@ -1,4 +1,5 @@
-import javax.swing.*;
+package org.example;
+
 import java.util.Scanner;
 
 public class RP02_Davi_Atv6_Ex6 {
